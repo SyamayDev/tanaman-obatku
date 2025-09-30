@@ -1,0 +1,352 @@
+/* Reset dan Dasar */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  color: #333;
+}
+
+/* Body untuk Halaman Sampul */
+.cover-body {
+  background-image: url("../img/background.webp");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: #fff;
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cover-body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(34, 139, 34, 0.5);
+  z-index: -1;
+}
+
+/* Herbal Desain (Ganti batik dengan pola daun/herbal) */
+.herbal-top,
+.herbal-bottom {
+  background: url("../img/herbal-pattern.png") repeat-x;
+  height: 150px;
+  width: 100%;
+  background-size: auto;
+  background-position: center;
+  background-color: #228b22;
+}
+
+.herbal-bottom {
+  background-color: #006400;
+  margin-top: auto;
+}
+
+/* Ikon Baris */
+.icon-row {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px 0;
+}
+
+.cover-icon {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.5));
+}
+
+/* Konten Utama */
+.cover-content {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  text-align: center;
+}
+
+.cover-title {
+  font-size: 3rem;
+  font-weight: 600;
+  color: #ffd700;
+  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7);
+  margin-bottom: 10px;
+}
+
+.cover-subtitle {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.cta {
+  display: inline-flex;
+  padding: 12px 40px;
+  font-size: 1.4rem;
+  color: #fff;
+  background-color: #228b22;
+  border: none;
+  border-radius: 50px;
+  text-decoration: none;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.cta:hover {
+  background-color: #006400;
+  transform: scale(1.05);
+}
+
+/* Body untuk Halaman Tanaman */
+.tanaman-body {
+  background-image: url("../img/herbal-pattern.png");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.tanaman-body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+  z-index: -1;
+}
+
+/* Card Style untuk Tanaman */
+.herbal-card {
+  margin-bottom: 1.5rem;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  background-color: #ffffff;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.herbal-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 6px 12px rgba(1, 111, 255, 0.482);
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.card-title {
+  color: #228b22;
+  font-weight: 600;
+}
+
+.label-search {
+  margin-left: 20px;
+}
+
+.card-text {
+  color: #555;
+}
+
+.card-text strong {
+  color: #8b4513;
+}
+
+/* Style untuk Halaman Detail */
+.detail-card {
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
+  overflow: hidden;
+}
+
+.detail-title {
+  color: #228b22;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.detail-strong {
+  color: #8b4513;
+}
+
+.detail-subtitle {
+  color: #006400;
+  font-weight: 500;
+}
+
+.detail-deskripsi {
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Search Bar Style (Dirapikan) */
+.search-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.search .input-bar {
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 50px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  height: 3.5rem;
+  padding: 0 1rem;
+  display: flex;
+  align-items: center;
+  position: relative;
+  transition: box-shadow 0.3s;
+}
+
+.search .input-bar:focus-within {
+  border: 1px solid #228b22;
+  box-shadow: 0 4px 8px rgba(0, 128, 0, 0.1);
+}
+
+.search .input-bar .label-search {
+  color: #888;
+  font-size: 1rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  pointer-events: none;
+  position: absolute;
+  left: 1.5rem;
+  transition: all 0.3s;
+}
+
+.search .input-bar .label-search.hidden {
+  opacity: 0;
+  visibility: hidden;
+}
+
+.search .input-bar input {
+  flex: 1;
+  border: none;
+  outline: none;
+  font-size: 1rem;
+  padding: 0 0.5rem;
+  background: transparent;
+}
+
+.search .input-bar button {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  width: 2.5rem;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: background 0.3s;
+}
+
+.search .input-bar button:hover {
+  background: #f0f0f0;
+}
+
+.search .input-bar button.active {
+  background: #e0ffe0;
+  animation: pulse 1s infinite;
+}
+
+.voice-btn i {
+  color: #007bff;
+}
+
+.refresh-btn i {
+  color: #6c757d;
+}
+
+/* Voice Popup (Dirapikan) */
+.voice-popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(255, 255, 255, 0.95);
+  color: #333;
+  padding: 15px 25px;
+  border-radius: 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  z-index: 1050;
+  text-align: center;
+  font-size: 1rem;
+  max-width: 80%;
+}
+
+/* Animasi Pulse untuk Voice Active */
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+/* Responsif Mobile */
+@media (max-width: 768px) {
+  .cover-title {
+    font-size: 2.2rem;
+  }
+  .cover-content {
+    margin-top: -80px;
+  }
+
+  .cta {
+    padding: 10px 30px;
+    font-size: 1.2rem;
+  }
+
+  .herbal-top,
+  .herbal-bottom {
+    height: 70px;
+  }
+
+  .card-img-top {
+    height: 150px;
+  }
+
+  .search .input-bar {
+    height: 3rem;
+    padding: 0 0.5rem;
+  }
+
+  .search .input-bar input {
+    font-size: 0.9rem;
+  }
+
+  .search .input-bar .label-search {
+    margin-left: 20px;
+    font-size: 0.9rem;
+  }
+
+  .search .input-bar button {
+    width: 2rem;
+    height: 2rem;
+  }
+}
+
+/* Hapus elemen audio/speaker karena tidak diperlukan */
+.speaker-btn {
+  display: none;
+}
