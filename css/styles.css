@@ -205,11 +205,12 @@ body {
   border-radius: 50px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
   height: 3.5rem;
-  padding: 0 1rem;
+  padding: 0 0.5rem;
   display: flex;
   align-items: center;
   position: relative;
   transition: box-shadow 0.3s;
+  overflow: hidden; /* supaya isi tidak keluar */
 }
 
 .search .input-bar:focus-within {
@@ -235,12 +236,13 @@ body {
 }
 
 .search .input-bar input {
-  flex: 1;
+  flex: 1;              /* biar menyesuaikan sisa ruang */
   border: none;
   outline: none;
   font-size: 1rem;
   padding: 0 0.5rem;
   background: transparent;
+  min-width: 0;         /* biar tidak maksa keluar */
 }
 
 .search .input-bar .button-group {
@@ -260,6 +262,7 @@ body {
   justify-content: center;
   border-radius: 50%;
   transition: background 0.3s;
+  flex-shrink: 0;       /* tombol tidak mengecil */
 }
 
 .search .input-bar button:hover {
@@ -355,6 +358,20 @@ body {
     gap: 0.2rem; /* Sesuaikan jarak untuk layar kecil */
   }
 }
+
+@media (max-width: 480px) {
+  .search .input-bar {
+    height: 3rem;
+  }
+  .search .input-bar input {
+    font-size: 0.9rem;
+  }
+  .search .input-bar button {
+    width: 2rem;
+    height: 2rem;
+  }
+}
+
 
 /* Hapus elemen audio/speaker karena tidak diperlukan */
 .speaker-btn {
