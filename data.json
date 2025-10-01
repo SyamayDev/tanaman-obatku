@@ -5,7 +5,7 @@
     "input": "Rimpang",
     "proses": "Direbus, diminum",
     "output": "Masuk angin, mual, meningkatkan imun",
-    "gambar": "img/img-tanaman/jahe.png",
+    "gambar": "img/img-tanaman/jahe.webp",
     "detail": "Jahe adalah tanaman rimpang yang telah digunakan selama berabad-abad dalam pengobatan tradisional. Rimpang jahe mengandung senyawa gingerol yang memiliki sifat anti-inflamasi dan antioksidan. Untuk mengatasi masuk angin, rebus rimpang jahe segar dengan air dan minum air rebusannya hangat. Ini membantu meredakan mual, meningkatkan sirkulasi darah, dan memperkuat sistem imun tubuh. Jahe juga dapat dikombinasikan dengan madu atau lemon untuk rasa yang lebih baik. Hindari penggunaan berlebihan jika memiliki masalah lambung."
   },
   {
@@ -14,7 +14,7 @@
     "input": "Rimpang",
     "proses": "Dihaluskan / direbus",
     "output": "Anti radang, maag",
-    "gambar": "img/img-tanaman/kunyit.png",
+    "gambar": "img/img-tanaman/kunyit.webp",
     "detail": "Kunyit mengandung kurkumin yang kuat sebagai anti-inflamasi alami. Untuk pengobatan maag, haluskan rimpang kunyit segar dan campur dengan air hangat atau rebus menjadi jamu. Minum secara rutin untuk mengurangi peradangan pada saluran pencernaan. Kunyit juga bermanfaat untuk kesehatan hati dan kulit. Kombinasikan dengan lada hitam untuk meningkatkan penyerapan kurkumin. Konsultasikan dengan dokter jika sedang mengonsumsi obat pengencer darah."
   },
   {
@@ -23,7 +23,7 @@
     "input": "Rimpang",
     "proses": "Direbus jadi jamu",
     "output": "Nafsu makan, gangguan hati",
-    "gambar": "img/img-tanaman/temulawak.png",
+    "gambar": "img/img-tanaman/temulawak.webp",
     "detail": "Temulawak kaya akan kurkuminoid yang mendukung fungsi hati dan meningkatkan nafsu makan. Rebus rimpang temulawak dengan air hingga mendidih, saring, dan minum sebagai jamu. Ini membantu detoksifikasi hati dan merangsang produksi empedu. Cocok untuk anak-anak yang kurang nafsu makan. Gunakan secara moderat untuk menghindari efek samping seperti diare."
   },
   {
@@ -32,7 +32,7 @@
     "input": "Rimpang",
     "proses": "Direbus / ditumbuk",
     "output": "Batuk, pegal linu",
-    "gambar": "img/img-tanaman/lengkuas.png",
+    "gambar": "img/img-tanaman/lengkuas.webp",
     "detail": "Lengkuas adalah rimpang yang mirip dengan jahe dan kunyit, sering digunakan dalam pengobatan tradisional untuk meredakan nyeri sendi seperti osteoarthritis atau rheumatoid arthritis. Kandungannya termasuk antioksidan polifenol yang tinggi, membantu menjaga kesehatan otak dan meningkatkan kemampuan kognitif. Untuk mengatasi gangguan pencernaan seperti kembung, mual, atau masalah lambung, rebus lengkuas dan minum air rebusannya. Minyak atsiri dari lengkuas efektif melawan infeksi patogen seperti jamur dan ragi. Lengkuas juga memiliki sifat antibakteri dan antiradang berkat senyawa galangin. Hindari penggunaan berlebih jika memiliki kondisi sensitif pada pencernaan."
   },
   {
@@ -41,7 +41,7 @@
     "input": "Rimpang",
     "proses": "Direbus, dibuat jamu beras kencur",
     "output": "Batuk, stamina",
-    "gambar": "img/img-tanaman/kencur.png",
+    "gambar": "img/img-tanaman/kencur.webp",
     "detail": "Kencur adalah tanaman herbal yang telah lama digunakan dalam pengobatan tradisional untuk mengurangi sakit gigi, menurunkan demam, meredakan sakit perut, dan mengatasi diare. Kandungannya termasuk antioksidan yang membantu meningkatkan kekebalan tubuh dengan menangkal radikal bebas dan virus. Untuk obat batuk dan radang tenggorokan, parut rimpang kencur, campur dengan air hangat, dan minum. Kencur juga efektif untuk perut kembung dengan cara diparut dan dicampur air. Dalam bentuk jamu beras kencur, ia meningkatkan stamina dan kesehatan secara keseluruhan. Gunakan secara moderat dan konsultasikan jika ada kondisi kesehatan tertentu."
   },
   {
@@ -50,7 +50,7 @@
     "input": "Daun",
     "proses": "Direbus, diminum",
     "output": "Diabetes, infeksi",
-    "gambar": "img/img-tanaman/sambiloto.png",
+    "gambar": "img/img-tanaman/sambiloto.webp",
     "detail": "Sambiloto adalah tanaman herbal yang telah digunakan dalam pengobatan tradisional untuk meredakan gejala pilek, flu, demam, dan meningkatkan imunitas tubuh. Kandungannya bersifat antiradang, membantu mencegah dan meredakan peradangan. Untuk pengobatan, rebus daun sambiloto dan minum airnya. Tanaman ini juga efektif mengatasi infeksi jamur di mulut, batuk, dan masalah kesehatan lain seperti gangguan fungsi hati, penyakit jantung, alergi, hingga infeksi. Dalam pengobatan tradisional, sambiloto dikenal sebagai obat diabetes dengan menurunkan kadar gula darah. Hindari penggunaan berlebih dan konsultasikan dengan dokter untuk kondisi kronis."
   },
   {
@@ -59,7 +59,7 @@
     "input": "Daun",
     "proses": "Direbus / dibuat teh",
     "output": "Luka, meningkatkan memori",
-    "gambar": "img/img-tanaman/pegagan.png",
+    "gambar": "img/img-tanaman/pegagan.webp",
     "detail": "Pegagan, atau daun pegagan, telah digunakan sebagai obat tradisional untuk mengatasi peradangan, nyeri sendi, mengurangi kecemasan, stres, depresi, dan membantu meringankan insomnia. Kandungan zat seperti asiaticoside mempercepat penyembuhan luka dan mengurangi stretch mark. Untuk meningkatkan kesehatan otak dan daya ingat, rebus daun pegagan menjadi teh atau konsumsi sebagai suplemen. Pegagan juga meningkatkan sirkulasi darah, mengobati penyakit lepra dan psoriasis, serta mendukung kesehatan secara keseluruhan. Dalam pengolahan tradisional, bubur pegagan dibuat dengan mencuci bersih daun dan memadukannya dengan bahan alami lain. Gunakan dengan hati-hati jika memiliki kondisi kulit sensitif."
   },
   {
@@ -68,7 +68,7 @@
     "input": "Daun, batang",
     "proses": "Direbus, diminum",
     "output": "Hepatitis, imun",
-    "gambar": "img/img-tanaman/meniran.png",
+    "gambar": "img/img-tanaman/meniran.webp",
     "detail": "Meniran adalah tanaman herbal yang memperkuat sistem imun, mengatasi nyeri, membantu pengobatan HIV, mengatasi hipertensi, meredakan peradangan, dan mengatasi batu ginjal. Kandungannya efektif melegakan batuk berdahak, mengatasi sariawan, meredakan diare, mengurangi sakit gigi, dan meningkatkan fungsi hati. Untuk pengolahan, rebus daun dan batang meniran, saring, dan minum airnya. Meniran juga berpotensi menurunkan kadar gula darah, melindungi kesehatan hati, meredakan asam urat, dan mengatasi tukak lambung. Dalam pengobatan tradisional, ia digunakan untuk meningkatkan daya tahan tubuh dan mengobati berbagai infeksi. Konsultasikan penggunaan jika sedang hamil atau menyusui."
   },
   {
@@ -77,7 +77,7 @@
     "input": "Daun",
     "proses": "Direbus",
     "output": "Infeksi saluran kencing",
-    "gambar": "img/img-tanaman/kumis-kucing.png",
+    "gambar": "img/img-tanaman/kumis-kucing.webp",
     "detail": "Kumis kucing adalah tanaman obat yang banyak manfaat, termasuk mengobati asam urat dengan kandungan flavonoid dan fenolik yang tinggi. Untuk infeksi saluran kencing, rebus setengah genggam daun kumis kucing dengan meniran dan sambiloto dalam 4 gelas air hingga tersisa 2 gelas, lalu minum. Tanaman ini juga mengobati diabetes, rematik, mencegah kekambuhan batu ginjal, menyembuhkan tukak lambung, sebagai obat alternatif kanker serviks, mengobati luka diabetes, dan mengurangi risiko penyakit lain. Efek diuretiknya membantu membersihkan saluran kemih. Gunakan secara tradisional dengan merebus dan konsultasikan jika ada kondisi medis."
   },
   {
@@ -86,7 +86,7 @@
     "input": "Gel daun",
     "proses": "Dioleskan, diminum",
     "output": "Luka bakar, pencernaan",
-    "gambar": "img/img-tanaman/lidah-buaya.png",
+    "gambar": "img/img-tanaman/lidah-buaya.webp",
     "detail": "Lidah buaya kaya manfaat untuk kesehatan, termasuk menurunkan gula darah, obat alami untuk kulit seperti luka bakar, terbakar matahari, frostbite, iritasi, dan gatal. Gelnya mempercepat penyembuhan luka bakar dengan olesan langsung. Kandungan vitamin C dan E mengencangkan kulit, sementara asam amino dan antrakuinon membantu pencernaan dan menjaga kesehatan mulut. Untuk pengolahan, oles gel segar pada kulit atau minum jusnya untuk menurunkan berat badan dan menjaga kesehatan jantung. Dalam pengobatan tradisional, lidah buaya digunakan untuk radang tenggorokan, batuk, amandel, diabetes, dan kolesterol tinggi. Hindari konsumsi berlebih karena bisa menyebabkan diare."
   },
   {
@@ -95,7 +95,7 @@
     "input": "Daun",
     "proses": "Direbus, untuk kumur",
     "output": "Bau mulut, keputihan",
-    "gambar": "img/img-tanaman/daun-sirih.png",
+    "gambar": "img/img-tanaman/daun-sirih.webp",
     "detail": "Daun sirih memiliki banyak manfaat kesehatan, termasuk mengurangi keputihan, menghilangkan bau mulut, mengatasi infeksi jamur di mulut, mengobati batuk, dan menjaga kesehatan organ kewanitaan. Untuk pengobatan, rebus daun sirih dan gunakan airnya sebagai obat kumur atau minum. Daun sirih juga meredakan nyeri haid, melancarkan pencernaan, menjaga kesehatan gigi dan mulut, menurunkan gula darah, dan mempercepat penyembuhan luka. Dalam pengobatan tradisional, ia digunakan untuk mencegah infeksi mulut dan mengatasi masalah pencernaan. Hindari penggunaan berlebih karena bisa menyebabkan iritasi."
   },
   {
@@ -104,7 +104,7 @@
     "input": "Buah",
     "proses": "Perasan diminum",
     "output": "Batuk, daya tahan tubuh",
-    "gambar": "img/img-tanaman/jeruk-nipis.png",
+    "gambar": "img/img-tanaman/jeruk-nipis.webp",
     "detail": "Jeruk nipis kaya vitamin C yang melawan infeksi, menghidrasi tubuh, mengatasi sembelit, menurunkan berat badan, mengobati jerawat, dan menjaga kesehatan jantung. Untuk meredakan batuk, peras jeruk nipis dan minum airnya, yang mengandung zat herbal alami untuk mengurangi peradangan. Daunnya membersihkan darah, menjaga kesehatan mulut, pencernaan, dan kulit. Dalam pengobatan tradisional, jeruk nipis menurunkan risiko kanker, mencerahkan rambut, dan mengatur kadar gula darah. Kombinasikan dengan air hangat untuk manfaat optimal. Hindari jika memiliki masalah asam lambung."
   },
   {
@@ -113,7 +113,7 @@
     "input": "Buah",
     "proses": "Direbus / dimakan segar",
     "output": "Batuk, darah tinggi",
-    "gambar": "img/img-tanaman/belimbing-wuluh.png",
+    "gambar": "img/img-tanaman/belimbing-wuluh.webp",
     "detail": "Belimbing wuluh membantu mengatur kadar gula darah dengan kandungan flavonoid dan serat, menyembuhkan batuk dan sariawan, mengatasi jerawat, asam urat, kolesterol, dan mengendalikan tekanan darah tinggi. Untuk pengobatan, rebus buah atau daun dan minum airnya, atau makan segar. Tanaman ini meningkatkan daya tahan tubuh dan mencegah berbagai penyakit. Dalam pengobatan tradisional, belimbing wuluh digunakan untuk mengelola berat badan dan kesehatan secara keseluruhan. Hindari konsumsi berlebih karena tingginya asam oksalat yang bisa memengaruhi ginjal."
   },
   {
@@ -122,7 +122,7 @@
     "input": "Batang",
     "proses": "Direbus",
     "output": "Demam, malaria",
-    "gambar": "img/img-tanaman/brotowali.png",
+    "gambar": "img/img-tanaman/brotowali.webp",
     "detail": "Brotowali adalah tanaman herbal dengan sifat antiradang alami, meredakan hipertensi, diabetes, penyakit kulit, risiko kanker, demam dengue, artritis, gejala alergi, dan memelihara kesehatan tulang. Untuk pengobatan, rebus batang brotowali dan minum airnya. Kandungannya meningkatkan kekebalan tubuh, mengobati demam, dan mengurangi nyeri. Dalam pengobatan tradisional, brotowali digunakan untuk mengatasi malaria dan infeksi lain. Gunakan secara hati-hati karena rasanya pahit dan konsultasikan jika memiliki kondisi kesehatan kronis."
   },
   {
@@ -131,7 +131,7 @@
     "input": "Daun",
     "proses": "Direbus / ditumbuk",
     "output": "Tumor, kanker",
-    "gambar": "img/img-tanaman/daun-dewa.png",
+    "gambar": "img/img-tanaman/daun-dewa.webp",
     "detail": "Daun dewa, dikenal sebagai 'penyambung nyawa', memiliki manfaat untuk mengobati stroke, diabetes, rematik, mencegah kanker, mengobati luka memar, dan meningkatkan fungsi seksual serta reproduksi. Untuk pengobatan, rebus daun atau tumbuk untuk olesan pada nyeri. Kandungannya sebagai antiperadangan, melawan kanker, dan obat alami untuk masalah kulit. Dalam pengobatan tradisional, daun dewa digunakan untuk mengurangi risiko serangan jantung dengan konsumsi rutin air rebusan. Hindari jika alergi dan konsultasikan penggunaan jangka panjang."
   },
   {
@@ -140,7 +140,7 @@
     "input": "Daun, bunga",
     "proses": "Direbus",
     "output": "Leukemia, kanker",
-    "gambar": "img/img-tanaman/tapak-dara.png",
+    "gambar": "img/img-tanaman/tapak-dara.webp",
     "detail": "Tapak dara adalah tanaman herbal yang dikenal karena kandungan alkaloid seperti vinblastine dan vincristine, yang telah dimanfaatkan dalam pengobatan modern untuk leukemia dan beberapa jenis kanker. Untuk penggunaan tradisional, rebus daun atau bunga tapak dara dan minum airnya dalam dosis terkontrol. Tanaman ini memiliki sifat antikanker yang kuat, membantu menghambat pertumbuhan sel kanker, terutama pada kanker payudara dan limfoma. Penggunaannya harus diawasi ketat oleh ahli kesehatan karena toksisitasnya yang tinggi, serta dapat menyebabkan efek samping seperti mual atau kerusakan saraf jika overdosis."
   },
   {
@@ -149,7 +149,7 @@
     "input": "Daun",
     "proses": "Direbus, diminum",
     "output": "Diare",
-    "gambar": "img/img-tanaman/jambu-biji.png",
+    "gambar": "img/img-tanaman/jambu-biji.webp",
     "detail": "Daun jambu biji kaya akan tanin dan antioksidan yang efektif mengatasi diare dengan mengurangi peradangan usus dan menghentikan perdarahan ringan. Rebus beberapa lembar daun segar dan minum airnya untuk meredakan gejala diare akut atau kronis. Tanaman ini juga mendukung kesehatan mulut dengan mengatasi sariawan dan gusi berdarah, serta membantu menurunkan gula darah. Dalam pengobatan tradisional, daun jambu biji sering dikombinasikan dengan madu untuk meningkatkan rasa dan khasiat. Hindari penggunaan berlebihan karena dapat menyebabkan konstipasi."
   },
   {
@@ -158,7 +158,7 @@
     "input": "Daun",
     "proses": "Direbus",
     "output": "Kolesterol, asam urat",
-    "gambar": "img/img-tanaman/salam.png",
+    "gambar": "img/img-tanaman/salam.webp",
     "detail": "Daun salam mengandung senyawa flavonoid dan minyak atsiri yang membantu menurunkan kolesterol jahat (LDL) dan mengatasi asam urat dengan meningkatkan ekskresi asam urat melalui urin. Rebus 10-15 lembar daun salam dalam air, lalu minum secara rutin untuk hasil optimal. Tanaman ini juga mendukung kesehatan pencernaan, mengurangi tekanan darah tinggi, dan mencegah diabetes tipe 2 dengan mengatur kadar gula darah. Dalam pengobatan tradisional, daun salam digunakan untuk detoksifikasi tubuh dan meningkatkan sirkulasi darah. Konsultasikan jika memiliki kondisi ginjal kronis."
   },
   {
@@ -167,7 +167,7 @@
     "input": "Daun, batang",
     "proses": "Direbus / dimakan segar",
     "output": "Tekanan darah tinggi",
-    "gambar": "img/img-tanaman/seledri.png",
+    "gambar": "img/img-tanaman/seledri.webp",
     "detail": "Seledri kaya akan phthalides dan kalium yang membantu menurunkan tekanan darah tinggi dengan melemaskan pembuluh darah dan meningkatkan aliran darah. Konsumsi segar sebagai salad atau rebus daun dan batang untuk diminum sebagai teh. Tanaman ini juga mendukung detoksifikasi hati, mengurangi kolesterol, dan mencegah pembentukan batu ginjal. Dalam pengobatan tradisional, seledri digunakan untuk mengatasi gangguan pencernaan dan meningkatkan kesehatan kulit. Hindari jika memiliki alergi terhadap tanaman Apiaceae atau sedang hamil tanpa konsultasi dokter."
   },
   {
@@ -176,7 +176,7 @@
     "input": "Kulit batang",
     "proses": "Direbus / bubuk",
     "output": "Diabetes, flu",
-    "gambar": "img/img-tanaman/kayu-manis.png",
+    "gambar": "img/img-tanaman/kayu-manis.webp",
     "detail": "Kayu manis mengandung cinnamaldehyde yang membantu mengatur gula darah dan meningkatkan sensitivitas insulin, sehingga efektif untuk diabetes tipe 2. Rebus kulit kayu manis atau tambahkan bubuknya ke makanan untuk meredakan gejala flu dengan efek antivirus dan antiinflamasi. Tanaman ini juga mendukung kesehatan jantung, mengurangi kolesterol, dan meningkatkan sirkulasi darah. Dalam pengobatan tradisional, kayu manis digunakan untuk menghangatkan tubuh dan mengatasi masuk angin. Gunakan dalam jumlah sedang karena konsumsi berlebih dapat menyebabkan iritasi lambung."
   },
   {
@@ -185,7 +185,7 @@
     "input": "Biji",
     "proses": "Direbus, bubuk",
     "output": "Pencernaan",
-    "gambar": "img/img-tanaman/ketumbar.png",
+    "gambar": "img/img-tanaman/ketumbar.webp",
     "detail": "Ketumbar kaya akan serat dan minyak atsiri yang membantu meredakan gangguan pencernaan seperti kembung, sembelit, dan sindrom iritasi usus. Rebus biji ketumbar atau tambahkan bubuknya ke masakan untuk meningkatkan kesehatan lambung dan mengurangi asam lambung. Tanaman ini juga memiliki sifat antioksidan yang mendukung detoksifikasi tubuh dan menurunkan kolesterol. Dalam pengobatan tradisional, ketumbar digunakan untuk mengatasi demam dan infeksi ringan. Hindari penggunaan berlebih karena dapat menyebabkan reaksi alergi pada beberapa orang."
   },
   {
@@ -194,7 +194,7 @@
     "input": "Biji",
     "proses": "Direbus / rempah",
     "output": "Asma, batuk",
-    "gambar": "img/img-tanaman/kapulaga.png",
+    "gambar": "img/img-tanaman/kapulaga.webp",
     "detail": "Kapulaga mengandung senyawa cineole yang membantu melancarkan pernapasan, meredakan asma, dan mengatasi batuk dengan efek ekspektoran alami. Rebus biji kapulaga atau gunakan sebagai rempah dalam teh hangat untuk menghangatkan tubuh. Tanaman ini juga mendukung kesehatan mulut dengan menghilangkan bau mulut dan meningkatkan pencernaan. Dalam pengobatan tradisional, kapulaga digunakan untuk mengatasi mual dan meningkatkan stamina. Konsumsi secara moderat karena penggunaan berlebih dapat menyebabkan gangguan pencernaan."
   },
   {
@@ -203,7 +203,7 @@
     "input": "Umbi",
     "proses": "Dimakan mentah / rebus",
     "output": "Kolesterol, antibakteri",
-    "gambar": "img/img-tanaman/bawang-putih.png",
+    "gambar": "img/img-tanaman/bawang-putih.webp",
     "detail": "Bawang putih kaya akan allicin yang memiliki sifat antibakteri, antivirus, dan antijamur, serta membantu menurunkan kolesterol dan tekanan darah. Konsumsi mentah atau rebus untuk meningkatkan sistem imun dan mencegah infeksi. Tanaman ini juga mendukung kesehatan jantung, mengurangi risiko aterosklerosis, dan melawan infeksi saluran pernapasan. Dalam pengobatan tradisional, bawang putih digunakan untuk mengatasi cacingan dan meningkatkan sirkulasi darah. Hindari konsumsi berlebih karena dapat menyebabkan iritasi lambung atau bau mulut yang kuat."
   },
   {
@@ -212,7 +212,7 @@
     "input": "Umbi",
     "proses": "Dimakan / tempel",
     "output": "Flu, demam",
-    "gambar": "img/img-tanaman/bawang-merah.png",
+    "gambar": "img/img-tanaman/bawang-merah.webp",
     "detail": "Bawang merah mengandung quercetin dan sulfur yang efektif melawan flu dan demam dengan meningkatkan imunitas dan mengurangi peradangan. Konsumsi mentah atau tempelkan irisan pada dahi untuk meredakan demam. Tanaman ini juga mendukung kesehatan jantung, mengurangi kolesterol, dan membantu pencernaan. Dalam pengobatan tradisional, bawang merah digunakan untuk mengatasi infeksi kulit dan meningkatkan kesehatan rambut. Gunakan dengan hati-hati karena dapat menyebabkan iritasi kulit pada beberapa individu."
   },
   {
@@ -221,7 +221,7 @@
     "input": "Batang",
     "proses": "Direbus",
     "output": "Detoks, hipertensi",
-    "gambar": "img/img-tanaman/serai.png",
+    "gambar": "img/img-tanaman/serai.webp",
     "detail": "Serai kaya akan antioksidan seperti citral yang membantu detoksifikasi tubuh dan menurunkan tekanan darah tinggi dengan meningkatkan sirkulasi darah. Rebus batang serai untuk membuat teh detoks yang mendukung kesehatan hati dan ginjal. Tanaman ini juga meredakan kram perut, mengatasi insomnia, dan meningkatkan pencernaan. Dalam pengobatan tradisional, serai digunakan untuk mengusir nyamuk dan meredakan nyeri otot. Hindari penggunaan berlebih karena dapat menyebabkan gangguan pencernaan."
   },
   {
@@ -230,7 +230,7 @@
     "input": "Daun",
     "proses": "Direbus / sayur",
     "output": "Antioksidan, imun",
-    "gambar": "img/img-tanaman/daun-kelor.png",
+    "gambar": "img/img-tanaman/daun-kelor.webp",
     "detail": "Daun kelor kaya akan vitamin A, C, dan antioksidan yang meningkatkan imunitas dan melawan radikal bebas. Rebus daun atau masak sebagai sayur untuk mendukung kesehatan mata, tulang, dan kulit. Tanaman ini juga membantu menurunkan gula darah, mengatasi malnutrisi, dan meningkatkan produksi ASI. Dalam pengobatan tradisional, daun kelor digunakan untuk mengatasi anemia dan infeksi. Konsumsi secara moderat karena kandungan alkaloidnya dapat memengaruhi tiroid jika berlebihan."
   },
   {
@@ -239,7 +239,7 @@
     "input": "Buah",
     "proses": "Jus / rebus",
     "output": "Hipertensi, antibakteri",
-    "gambar": "img/img-tanaman/mengkudu.png",
+    "gambar": "img/img-tanaman/mengkudu.webp",
     "detail": "Mengkudu mengandung senyawa seperti scopoletin yang membantu menurunkan tekanan darah tinggi dan memiliki sifat antibakteri serta antivirus. Buat jus dari buah matang atau rebus untuk mendukung kesehatan jantung dan mengatasi infeksi. Tanaman ini juga digunakan untuk mengurangi nyeri sendi, meningkatkan pencernaan, dan mencegah kanker. Dalam pengobatan tradisional, mengkudu dikenal sebagai obat alami untuk diabetes dan gangguan kulit. Hindari konsumsi berlebih karena rasanya pahit dan dapat menyebabkan mual."
   },
   {
@@ -248,7 +248,7 @@
     "input": "Buah, daun",
     "proses": "Direbus, keringkan",
     "output": "Diabetes, kanker",
-    "gambar": "img/img-tanaman/mahkota-dewa.png",
+    "gambar": "img/img-tanaman/mahkota-dewa.webp",
     "detail": "Mahkota dewa mengandung flavonoid dan saponin yang membantu menurunkan gula darah dan memiliki potensi antikanker dengan menghambat pertumbuhan sel kanker. Rebus buah atau daun, atau keringkan untuk dibuat teh. Tanaman ini juga mendukung kesehatan hati, mengurangi peradangan, dan meningkatkan imunitas. Dalam pengobatan tradisional, mahkota dewa digunakan untuk mengatasi rematik dan gangguan pencernaan. Gunakan dengan hati-hati dan konsultasikan dengan dokter karena efek samping seperti diare atau hipotensi."
   },
   {
@@ -257,7 +257,7 @@
     "input": "Daun",
     "proses": "Direbus / mandi",
     "output": "Insomnia, sihir (kepercayaan)",
-    "gambar": "img/img-tanaman/bidara.png",
+    "gambar": "img/img-tanaman/bidara.webp",
     "detail": "Bidara dikenal dalam pengobatan tradisional untuk mengatasi insomnia dengan sifat menenangkan yang membantu tidur lebih nyenyak. Rebus daun atau gunakan airnya untuk mandi ritual sesuai kepercayaan tertentu. Tanaman ini juga memiliki sifat antibakteri dan antiinflamasi, mendukung kesehatan kulit, dan mengatasi infeksi ringan. Dalam budaya tertentu, bidara diyakini melindungi dari gangguan gaib. Gunakan dalam jumlah terbatas dan konsultasikan jika ada kondisi medis spesifik."
   },
   {
@@ -266,7 +266,7 @@
     "input": "Daun",
     "proses": "Direbus",
     "output": "Batu ginjal",
-    "gambar": "img/img-tanaman/tempuyung.png",
+    "gambar": "img/img-tanaman/tempuyung.webp",
     "detail": "Tempuyung mengandung kalium yang membantu melarutkan dan mengeluarkan batu ginjal dengan meningkatkan produksi urin. Rebus daun segar dan minum airnya secara rutin untuk mendukung kesehatan ginjal dan mencegah pembentukan batu baru. Tanaman ini juga mengatasi hipertensi, edema, dan gangguan pencernaan ringan. Dalam pengobatan tradisional, tempuyung digunakan untuk detoksifikasi tubuh dan mengurangi nyeri akibat batu ginjal. Hindari jika memiliki gangguan ginjal kronis tanpa konsultasi dokter."
   },
   {
@@ -275,7 +275,7 @@
     "input": "Daun",
     "proses": "Direbus",
     "output": "Luka, radang",
-    "gambar": "img/img-tanaman/tapak-liman.png",
+    "gambar": "img/img-tanaman/tapak-liman.webp",
     "detail": "Tapak liman adalah tanaman herbal yang dikenal dengan sifat antiinflamasi dan penyembuh luka berkat kandungan flavonoid dan alkaloidnya. Rebus daun segar dan gunakan airnya untuk mencuci luka atau diminum untuk mengurangi peradangan internal. Tanaman ini juga digunakan dalam pengobatan tradisional untuk meredakan nyeri sendi, meningkatkan stamina, dan mengatasi gangguan pencernaan ringan. Dalam beberapa budaya, tapak liman dipercaya mempercepat pemulihan pasca melahirkan. Gunakan dengan hati-hati dan konsultasikan jika ada alergi kulit atau kondisi kronis."
   },
   {
@@ -284,7 +284,7 @@
     "input": "Daun",
     "proses": "Ditumbuk / direbus",
     "output": "Panu, kurap",
-    "gambar": "img/img-tanaman/ketepeng-cina.png",
+    "gambar": "img/img-tanaman/ketepeng-cina.webp",
     "detail": "Ketepeng cina memiliki sifat antijamur dan antibakteri yang efektif mengatasi panu, kurap, dan infeksi kulit lainnya berkat kandungan senyawa seperti tannin dan saponin. Tumbuk daun segar dan oleskan pada area yang terkena, atau rebus dan gunakan airnya untuk membilas kulit. Tanaman ini juga digunakan untuk mengobati gatal-gatal dan luka ringan dalam pengobatan tradisional. Penggunaannya secara eksternal lebih disarankan, dan hindari konsumsi berlebih karena dapat menyebabkan iritasi lambung."
   },
   {
@@ -293,7 +293,7 @@
     "input": "Daun",
     "proses": "Ditumbuk, tempel",
     "output": "Luka luar",
-    "gambar": "img/img-tanaman/bandotan.png",
+    "gambar": "img/img-tanaman/bandotan.webp",
     "detail": "Bandotan, atau dikenal sebagai rumput liar, mengandung senyawa antiseptik yang membantu menyembuhkan luka luar dengan mencegah infeksi. Tumbuk daun segar hingga halus, lalu tempelkan pada luka untuk mempercepat penyembuhan dan mengurangi peradangan. Dalam pengobatan tradisional, bandotan juga digunakan untuk mengatasi bisul dan memar, serta di beberapa daerah untuk meredakan nyeri otot. Gunakan dengan hati-hati karena penggunaan berlebih dapat menyebabkan iritasi kulit pada beberapa individu."
   },
   {
@@ -302,7 +302,7 @@
     "input": "Daun",
     "proses": "Direbus",
     "output": "Diare, disentri",
-    "gambar": "img/img-tanaman/patikan-kebo.png",
+    "gambar": "img/img-tanaman/patikan-kebo.webp",
     "detail": "Patikan kebo kaya akan tannin dan flavonoid yang efektif mengatasi diare dan disentri dengan mengurangi peradangan usus dan menghentikan diare akut. Rebus daun segar dan minum airnya dalam dosis kecil untuk meredakan gejala. Tanaman ini juga digunakan dalam pengobatan tradisional untuk mengatasi demam dan infeksi saluran pencernaan. Dalam beberapa budaya, patikan kebo dipercaya meningkatkan imunitas. Konsultasikan dengan dokter jika diare berlangsung lama atau ada kondisi kesehatan lain."
   },
   {
@@ -311,7 +311,7 @@
     "input": "Daun",
     "proses": "Direbus",
     "output": "Wasir",
-    "gambar": "img/img-tanaman/daun-ungu.png",
+    "gambar": "img/img-tanaman/daun-ungu.webp",
     "detail": "Daun ungu mengandung senyawa antiinflamasi dan astringen yang membantu mengatasi wasir dengan mengurangi pembengkakan dan pendarahan. Rebus daun segar dan gunakan airnya untuk membasuh area yang terkena atau diminum untuk efek internal. Tanaman ini juga digunakan dalam pengobatan tradisional untuk mengatasi gangguan pencernaan dan meningkatkan sirkulasi darah. Dalam beberapa kasus, daun ungu dipercaya membantu penyembuhan luka luar. Hindari penggunaan berlebih karena dapat menyebabkan iritasi."
   },
   {
@@ -320,7 +320,7 @@
     "input": "Daun",
     "proses": "Direbus",
     "output": "Tekanan darah tinggi",
-    "gambar": "img/img-tanaman/benalu-teh.png",
+    "gambar": "img/img-tanaman/benalu-teh.webp",
     "detail": "Benalu teh mengandung alkaloid dan flavonoid yang membantu menurunkan tekanan darah tinggi dengan melemaskan pembuluh darah dan meningkatkan sirkulasi. Rebus daun dan minum airnya secara rutin untuk hasil optimal. Tanaman ini juga digunakan dalam pengobatan tradisional untuk mengatasi vertigo, pusing, dan gangguan saraf ringan. Dalam beberapa budaya, benalu teh dipercaya menyeimbangkan energi tubuh. Konsultasikan dengan dokter karena dapat berinteraksi dengan obat tekanan darah."
   },
   {
@@ -329,7 +329,7 @@
     "input": "Daun",
     "proses": "Direbus",
     "output": "Kanker, kolesterol",
-    "gambar": "img/img-tanaman/daun-sirsak.png",
+    "gambar": "img/img-tanaman/daun-sirsak.webp",
     "detail": "Daun sirsak mengandung acetogenin yang memiliki sifat antikanker dan membantu menurunkan kolesterol dengan menghambat pertumbuhan sel kanker dan mengurangi lemak darah. Rebus 10-15 lembar daun dan minum airnya untuk mendukung kesehatan jantung dan mencegah kanker. Tanaman ini juga digunakan dalam pengobatan tradisional untuk mengatasi diabetes dan radang sendi. Dalam beberapa studi, daun sirsak menunjukkan efek antioksidan kuat. Hindari konsumsi berlebih karena dapat menyebabkan neurotoksisitas."
   },
   {
@@ -338,7 +338,7 @@
     "input": "Batang, daun",
     "proses": "Direbus",
     "output": "Anti nyamuk, relaksasi",
-    "gambar": "img/img-tanaman/sereh-wangi.png",
+    "gambar": "img/img-tanaman/sereh-wangi.webp",
     "detail": "Sereh wangi, atau citronella, mengandung minyak atsiri yang efektif mengusir nyamuk dan memberikan efek relaksasi dengan mengurangi stres dan kecemasan. Rebus batang atau daun untuk membuat teh relaksasi atau gunakan sebagai minyak aromaterapi. Tanaman ini juga mendukung pencernaan dan mengatasi mual dalam pengobatan tradisional. Dalam beberapa budaya, sereh wangi digunakan untuk menyegarkan udara dan meningkatkan konsentrasi. Gunakan dengan hati-hati pada kulit sensitif."
   },
   {
@@ -347,7 +347,7 @@
     "input": "Daun",
     "proses": "Dimakan segar",
     "output": "Flu, stamina",
-    "gambar": "img/img-tanaman/daun-bawang.png",
+    "gambar": "img/img-tanaman/daun-bawang.webp",
     "detail": "Daun bawang kaya akan vitamin C dan antioksidan yang membantu meningkatkan imunitas, mengatasi flu, dan menjaga stamina. Konsumsi segar sebagai campuran masakan atau salad untuk manfaat maksimal. Tanaman ini juga mendukung kesehatan jantung dengan mengurangi kolesterol dan meningkatkan sirkulasi darah. Dalam pengobatan tradisional, daun bawang digunakan untuk mengatasi masuk angin dan mempercepat pemulihan pasca sakit. Hindari konsumsi berlebih jika memiliki gangguan lambung."
   },
   {
@@ -356,7 +356,7 @@
     "input": "Akar",
     "proses": "Direbus",
     "output": "Vitalitas, stamina",
-    "gambar": "img/img-tanaman/ginseng-jawa.png",
+    "gambar": "img/img-tanaman/ginseng-jawa.webp",
     "detail": "Ginseng jawa, atau talinum, mengandung senyawa adaptogen yang meningkatkan vitalitas, stamina, dan ketahanan tubuh terhadap stres. Rebus akar dan minum airnya untuk mendukung kesehatan fisik dan mental. Tanaman ini juga digunakan dalam pengobatan tradisional untuk mengatasi kelelahan, meningkatkan libido, dan mempercepat pemulihan pasca sakit. Dalam beberapa budaya, ginseng jawa dipercaya memperpanjang umur. Konsultasikan penggunaan jangka panjang dengan dokter."
   },
   {
@@ -365,7 +365,7 @@
     "input": "Daun",
     "proses": "Direbus",
     "output": "Diabetes",
-    "gambar": "img/img-tanaman/tapak-dara-putih.png",
+    "gambar": "img/img-tanaman/tapak-dara-putih.webp",
     "detail": "Tapak dara putih mengandung alkaloid yang membantu menurunkan gula darah dan mendukung pengelolaan diabetes dengan meningkatkan sensitivitas insulin. Rebus daun dan minum airnya secara rutin. Tanaman ini juga memiliki sifat antiinflamasi yang mendukung kesehatan pencernaan dan kulit. Dalam pengobatan tradisional, tapak dara putih digunakan untuk mengatasi infeksi ringan dan meningkatkan imunitas. Gunakan dengan pengawasan medis karena potensi toksisitas."
   },
   {
@@ -374,7 +374,7 @@
     "input": "Daun",
     "proses": "Direbus / tempel",
     "output": "Luka, maag",
-    "gambar": "img/img-tanaman/daun-binahong.png",
+    "gambar": "img/img-tanaman/daun-binahong.webp",
     "detail": "Daun binahong kaya akan antioksidan dan senyawa penyembuh yang mempercepat penyembuhan luka serta mengatasi maag dengan melindungi dinding lambung. Rebus daun untuk diminum atau tumbuk untuk tempel pada luka. Tanaman ini juga digunakan dalam pengobatan tradisional untuk mengatasi memar, nyeri otot, dan meningkatkan sirkulasi darah. Dalam beberapa kasus, daun binahong dipercaya membantu pemulihan pasca operasi. Hindari penggunaan berlebih karena dapat menyebabkan diare."
   },
   {
@@ -383,7 +383,7 @@
     "input": "Buah, daun",
     "proses": "Dimakan / direbus",
     "output": "Diabetes, asma",
-    "gambar": "img/img-tanaman/ciplukan.png",
+    "gambar": "img/img-tanaman/ciplukan.webp",
     "detail": "Ciplukan mengandung alkaloid dan flavonoid yang membantu menurunkan gula darah pada diabetes serta meredakan asma dengan efek bronkodilator alami. Konsumsi buah segar atau rebus daun untuk diminum. Tanaman ini juga mendukung kesehatan hati, mengatasi batuk, dan meningkatkan imunitas. Dalam pengobatan tradisional, ciplukan digunakan untuk mengatasi demam dan infeksi saluran kemih. Gunakan dengan moderasi karena konsumsi berlebih dapat menyebabkan gangguan pencernaan."
   },
   {
@@ -392,7 +392,7 @@
     "input": "Daun",
     "proses": "Sayur / rebus",
     "output": "Melancarkan ASI",
-    "gambar": "img/img-tanaman/daun-katuk.png",
+    "gambar": "img/img-tanaman/daun-katuk.webp",
     "detail": "Daun katuk kaya akan vitamin A, C, dan zat besi yang membantu melancarkan produksi ASI pada ibu menyusui dengan meningkatkan hormon prolaktin. Masak sebagai sayur atau rebus daun untuk diminum. Tanaman ini juga mendukung kesehatan kulit, mengatasi anemia, dan meningkatkan stamina. Dalam pengobatan tradisional, daun katuk digunakan untuk mengatasi gangguan pencernaan dan meningkatkan kesehatan rambut. Konsultasikan dosis dengan dokter selama kehamilan atau menyusui."
   },
   {
@@ -401,7 +401,7 @@
     "input": "Rimpang",
     "proses": "Direbus",
     "output": "Radang sendi",
-    "gambar": "img/img-tanaman/lempuyang.png",
+    "gambar": "img/img-tanaman/lempuyang.webp",
     "detail": "Lempuyang mengandung minyak atsiri dan senyawa antiinflamasi yang efektif meredakan radang sendi dan nyeri otot. Rebus rimpang dan minum airnya atau oleskan ekstraknya pada area yang sakit. Tanaman ini juga digunakan dalam pengobatan tradisional untuk meningkatkan imunitas, mengatasi masuk angin, dan mendukung kesehatan pencernaan. Dalam beberapa budaya, lempuyang dipercaya menghangatkan tubuh. Hindari konsumsi berlebih karena dapat menyebabkan iritasi lambung."
   },
   {
@@ -410,7 +410,7 @@
     "input": "Daun, getah",
     "proses": "Dikunyah / rebus",
     "output": "Luka mulut, diare",
-    "gambar": "img/img-tanaman/gambir.png",
+    "gambar": "img/img-tanaman/gambir.webp",
     "detail": "Gambir mengandung tannin yang membantu menyembuhkan luka mulut dan mengatasi diare dengan mengurangi peradangan dan mengencangkan jaringan. Kunyah getah atau rebus daun untuk diminum. Tanaman ini juga digunakan dalam pengobatan tradisional untuk mengatasi sariawan, gusi berdarah, dan infeksi mulut. Dalam beberapa budaya, gambir digunakan sebagai pewarna alami dan obat kumur. Hindari penggunaan berlebih karena dapat menyebabkan mulut kering."
   },
   {
@@ -419,7 +419,7 @@
     "input": "Kayu",
     "proses": "Direbus",
     "output": "Antioksidan, darah tinggi",
-    "gambar": "img/img-tanaman/kayu-secang.png",
+    "gambar": "img/img-tanaman/kayu-secang.webp",
     "detail": "Kayu secang kaya akan antioksidan seperti flavonoid yang membantu menurunkan tekanan darah tinggi dan melindungi sel dari kerusakan radikal bebas. Rebus kayu dan minum airnya untuk mendukung kesehatan jantung dan pembuluh darah. Tanaman ini juga digunakan dalam pengobatan tradisional untuk mengatasi anemia, meningkatkan sirkulasi darah, dan sebagai pewarna alami. Dalam beberapa resep, kayu secang dikombinasikan dengan rempah lain. Konsultasikan jika ada kondisi ginjal."
   },
   {
@@ -428,7 +428,7 @@
     "input": "Air buah",
     "proses": "Diminum",
     "output": "Racun, dehidrasi",
-    "gambar": "img/img-tanaman/kelapa-hijau.png",
+    "gambar": "img/img-tanaman/kelapa-hijau.webp",
     "detail": "Air kelapa hijau kaya akan elektrolit dan antioksidan yang efektif mengatasi dehidrasi, menetralkan racun dalam tubuh, dan mendukung pemulihan pasca sakit. Minum segar untuk menghidrasi dan membersihkan sistem pencernaan. Tanaman ini juga membantu menurunkan tekanan darah, mendukung kesehatan ginjal, dan meningkatkan energi. Dalam pengobatan tradisional, air kelapa digunakan untuk mengatasi keracunan makanan dan mual. Hindari jika memiliki alergi terhadap kelapa."
   },
   {
@@ -437,7 +437,7 @@
     "input": "Daun",
     "proses": "Ditempel / direbus",
     "output": "Bengkak, sembelit",
-    "gambar": "img/img-tanaman/daun-jarak.png",
+    "gambar": "img/img-tanaman/daun-jarak.webp",
     "detail": "Daun jarak mengandung senyawa antiinflamasi yang membantu mengurangi bengkak dan meredakan sembelit dengan efek laksatif alami. Tempelkan daun yang sudah dipanaskan pada area bengkak atau rebus untuk diminum dalam dosis kecil. Tanaman ini juga digunakan dalam pengobatan tradisional untuk mengatasi nyeri otot dan meningkatkan sirkulasi darah. Hati-hati karena kandungan lateksnya dapat menyebabkan iritasi kulit atau keracunan jika dikonsumsi berlebihan."
   },
   {
@@ -446,7 +446,7 @@
     "input": "Daun",
     "proses": "Direbus / dimakan",
     "output": "Demam berdarah, pencernaan",
-    "gambar": "img/img-tanaman/daun-pepaya.png",
+    "gambar": "img/img-tanaman/daun-pepaya.webp",
     "detail": "Daun pepaya kaya akan enzim papain dan alkaloid yang membantu meningkatkan trombosit pada demam berdarah serta mendukung pencernaan dengan memecah protein. Rebus daun atau masak sebagai sayur untuk konsumsi. Tanaman ini juga digunakan dalam pengobatan tradisional untuk mengatasi sembelit, mengurangi peradangan, dan meningkatkan imunitas. Dalam beberapa studi, daun pepaya menunjukkan efek antiparasit. Hindari penggunaan berlebih karena dapat menyebabkan iritasi lambung."
   }
 ]

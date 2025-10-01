@@ -34,7 +34,7 @@ body {
 /* Herbal Desain (Ganti batik dengan pola daun/herbal) */
 .herbal-top,
 .herbal-bottom {
-  background: url("../img/herbal-pattern.png") repeat-x;
+  background: url("../img/herbal-pattern.webp") repeat-x;
   height: 150px;
   width: 100%;
   background-size: auto;
@@ -106,7 +106,7 @@ body {
 
 /* Body untuk Halaman Tanaman */
 .tanaman-body {
-  background-image: url("../img/herbal-pattern.png");
+  background-image: url("../img/herbal-pattern.webp");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
