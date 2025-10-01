@@ -29,18 +29,15 @@ document.addEventListener("DOMContentLoaded", function () {
       );
       resultsContainer.innerHTML = ""; // Kosongkan untuk pencarian baru
       page = 1;
-      displayResults(currentData);
+      const initialItems = currentData.slice(0, itemsPerPage);
+      displayResults(initialItems);
     } else {
       resetToInitialView();
     }
   }
 
-  function displayResults(data) {
-    const start = (page - 1) * itemsPerPage;
-    const end = start + itemsPerPage;
-    const itemsToDisplay = data.slice(start, end);
-
-    if (itemsToDisplay.length === 0 && start === 0) {
+  function displayResults(itemsToDisplay) {
+    if (itemsToDisplay.length === 0) {
       resultsContainer.innerHTML = `<p class="text-center text-muted col-12 mt-4">Tanaman tidak ditemukan.</p>`;
       return;
     }
@@ -170,7 +167,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const itemsToDisplay = currentData.slice(start, end);
 
     if (itemsToDisplay.length > 0) {
-      displayResults(currentData);
+      displayResults(itemsToDisplay);
       page++;
     } else {
       window.removeEventListener("scroll", handleScroll);
@@ -193,7 +190,8 @@ document.addEventListener("DOMContentLoaded", function () {
     resultsContainer.innerHTML = "";
     page = 1;
     currentData = tanamanData;
-    displayResults(currentData);
+    const initialItems = currentData.slice(0, itemsPerPage);
+    displayResults(initialItems);
     window.addEventListener("scroll", handleScroll);
   }
 
