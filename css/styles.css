@@ -243,6 +243,12 @@ body {
   background: transparent;
 }
 
+.search .input-bar .button-group {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem; /* Jarak antar tombol */
+}
+
 .search .input-bar button {
   border: none;
   background: transparent;
@@ -340,9 +346,13 @@ body {
     font-size: 0.9rem;
   }
 
-  .search .input-bar button {
+  .search .input-bar .button-group button {
     width: 2rem;
     height: 2rem;
+  }
+
+  .search .input-bar .button-group {
+    gap: 0.2rem; /* Sesuaikan jarak untuk layar kecil */
   }
 }
 
